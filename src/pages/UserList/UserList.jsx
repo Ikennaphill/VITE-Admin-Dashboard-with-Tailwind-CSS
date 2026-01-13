@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { DataGrid } from '@mui/x-data-grid';
 import { DeleteOutline, EditNote } from "@mui/icons-material";
-import { userRows } from "../../utilites/userData";
+import { userRows } from "../../utilities/userData";
 
 export default function UserList() {
     const [users, setUsers] = useState(userRows);
