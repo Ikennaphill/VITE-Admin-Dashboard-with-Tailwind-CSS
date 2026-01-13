@@ -1,0 +1,15 @@
+# https://www.robotstxt.org/robotstxt.html
+# Allow search engines to see your landing/login page
+User-agent: *
+Allow: /
+
+# Prevent search engines from indexing your admin routes
+Disallow: /users/
+Disallow: /products/
+Disallow: /user/
+Disallow: /product/
+Disallow: /newUser/
+Disallow: /newProduct/
+
+# If you have a sitemap (optional)
+# Sitemap: https://yourdomain.com/sitemap.xml
