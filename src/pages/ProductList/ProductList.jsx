@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { DataGrid } from '@mui/x-data-grid';
 import { DeleteOutline, EditNote } from "@mui/icons-material";
-import { productRows } from "../../utilies/productData";
+import { productRows } from "../../utilities/productData";
 
 export default function ProductList() {
     const [products, setProducts] = useState(productRows);
