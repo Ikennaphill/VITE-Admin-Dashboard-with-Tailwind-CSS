@@ -1,7 +1,10 @@
 # VITE-Admin-Dashboard-with-Tailwind-CSS
 This Backend Admin App Section utilizes state of the Art VITE dev and Tailwind CSS styling to handle Products in an E-commerce platform by users. 
 This is a modernized version of the `README.md` tailored for a **Vite + React + Tailwind CSS** project. It replaces the outdated Create React App (CRA) instructions with high-performance Vite commands and utility-first CSS documentation.
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ---
 
 # React Admin Dashboard
