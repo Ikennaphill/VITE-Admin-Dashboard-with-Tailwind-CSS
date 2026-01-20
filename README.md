@@ -6,7 +6,10 @@ This is a modernized version of the `README.md` tailored for a **Vite + React + 
 
 # React Admin Dashboard
 
-A modern, high-performance admin dashboard built with **React**, **Vite**, and **Tailwind CSS**.
+A modern, high-performance admin dashboard built with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 ## 🚀 Getting Started
 
